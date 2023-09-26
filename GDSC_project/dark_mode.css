@@ -1,0 +1,118 @@
+.container img{
+    border-radius: 50%;
+    
+}
+nav{
+    background-color: #1B3F54;
+}
+.container button{
+    background-color:#FF6464;
+    border: #FF6464;
+}
+.container button:hover{
+    background-color:  red;
+}
+body{
+    background-color: #1B3F54;
+}
+.container{
+    color: white;
+}
+
+.top_stories{
+    background: #396680;
+    padding-top:10px ;
+    padding-left: 20px;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    border: 2px solid 396680;
+}
+.headers {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.recent_post {
+    color: white;
+    float: left; 
+    margin-right: 20px;
+}
+
+.view {
+    float: right;
+    margin-left: 700px;
+}
+
+ 
+.content {
+    padding: 10px;
+    color: white;
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;    
+    flex-wrap: wrap;  
+}
+ .twenty{
+    background-color: blue;
+    align-items: center;
+    align-content: center;
+    border-radius: 50%;
+    margin-right: 10px;
+ }      
+ .twenty button{
+    background-color: navy;
+    color: white;
+    border: 2px solid navy;
+    border-radius: 100%;
+ }
+.img {
+    max-width: 100%;
+    max-height:100%;
+}
+       
+.news {
+    font-size: 15px;
+    color: white;
+}
+
+.inherrent{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+
+}
+hr{
+    margin: 50px;
+    color: white;
+}
+.head{
+    font-family: Heebo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: white;
+}
+
+.container2{
+    margin-left: 10px;
+    color: white;
+}
+.logos{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vh;
+  text-align: center;
+  color: white;
+}
+.copyright{
+    text-align: center;
+    color: white;
+}
