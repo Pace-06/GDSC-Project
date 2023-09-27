@@ -7,8 +7,6 @@ This project consists of a simple website with custom CSS styles. It includes a 
 How to install file?
 1) To install file you need to install the GDSC-final.zip file. Unzip in your local file and then open the file in Visual studio code or any IDE.
 2) Open the server.py and make sure you have Flask framework on your PC or else you will face a traceback error.
-![image](https://github.com/Pace-06/GDSC-Project/assets/113608716/91a7b496-1e67-4845-a230-d41911bf9451)
-
 3) If your code runs successfully you'll get a link in your terminal. Click on the link to see the project.
 
 
